@@ -34,7 +34,7 @@ python Max.py
 
 ### </> If you copy , Then Give me The Credits </>
 
-### <\> Encrypt your code for safty </>
+### <\> ALL BOMBING FUTURES IN ONE </>
 
 ## Find Me on :
 
