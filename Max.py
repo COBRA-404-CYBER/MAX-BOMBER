@@ -1,3 +1,8 @@
+# HELLO EMRAN BROTHER 🙂
+# নেও এইবার Decrypt করো ☹️
+# encrypted by FARHAN KHAN
+
+
 import os,time
 os.system("clear")
 print("\n\033[38;5;195m[\033[38;5;46m+\033[38;5;195m]\033[38;5;46m CHECKING UPDATE 💚")
