@@ -30,7 +30,6 @@ python Max.py
 
 <a href="#"><img title="COBRA-404-CYBER" src="https://h.top4top.io/p_2628jq4fd0.jpg"></a>
 <h1 align="center"></h1>
-<a href="#"><img title="COBRA-404-CYBER" src="https://e.top4top.io/p_26108xct30.jpg"></a>
 
 ### </> If you copy , Then Give me The Credits </>
 
