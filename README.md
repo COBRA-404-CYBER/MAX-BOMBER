@@ -1,6 +1,6 @@
 [CODED BY FARHAN KHAN]
 
-<a href="#"><img title="COBRA-404-CYBER" src="https://i.top4top.io/p_26107it3q0.jpg"></a>
+<a href="#"><img title="COBRA-404-CYBER" src="https://a.top4top.io/p_26354rhi70.jpg"></a>
 
 <a href="#"><img title="COBRA-404-CYBER" src="https://img.shields.io/badge/AUTHOR-FARHAN%20KHAN-red"></a>
 
